@@ -1,54 +1,54 @@
 * {
-    color: #4267b2;
-    color: #fff;
+  color: #4267b2;
+  color: #fff;
 }
 
 body {
-    background: #8277d8;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+  background: #8277d8;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 #logo {
-    background-color: blue;
-    width: 255px;
-    height: 300px;
-    border-right: 45px solid blue;
-    border-radius: 20px;
-    position: relative;
-    overflow: hidden;
-    margin-top: 150px;
+  background-color: blue;
+  width: 255px;
+  height: 300px;
+  border-right: 45px solid blue;
+  border-radius: 20px;
+  position: relative;
+  overflow: hidden;
+  margin-top: 150px;
 }
 
 span {
-    position: absolute;
+  position: absolute;
 }
 
 .vertical {
-    background-color: blue;
-    width: 72px;
-    height: 295px;
-    border: 45px solid white;
-    bottom: -126px;
-    right: -70px;
-    border-radius: 60px;
+  background-color: blue;
+  width: 72px;
+  height: 295px;
+  border: 45px solid white;
+  bottom: -125px;
+  right: -70px;
+  border-radius: 60px;
 }
 
 .horizontal {
-    background-color: white;
-    width: 130px;
-    height: 45px;
-    top: 139px;
-    right: 3px;
+  background-color: white;
+  width: 130px;
+  height: 45px;
+  top: 139px;
+  right: 3px;
 }
 
 .diagonal {
-    background-color: blue;
-    width: 50px;
-    height: 50px;
-    top: 140px;
-    right: -43px;
-    z-index: 1;
-    transform: rotateZ(-82deg);
+  background-color: blue;
+  width: 50px;
+  height: 50px;
+  top: 140px;
+  right: -43px;
+  z-index: 1;
+  transform: rotateZ(-82deg);
 }
